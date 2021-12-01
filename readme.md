@@ -1,5 +1,7 @@
+---
 layout: page
 title: "Welcome Earth"
+---
 
 Testing, testing, 1...2...3...  
   
