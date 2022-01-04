@@ -1,2 +1,6 @@
-# ReadMe
-A quick test, so I can see how Github Pages works with Eleventy
+---
+layout: base-layout.njk 
+---
+# Read Me
+
+This is the README.md file of my test Eleventy site.
