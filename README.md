@@ -1,6 +1,6 @@
 ---
 layout: base-layout.njk 
 ---
-# Read Me
+# Purpose
 
-This is the README.md file of my test Eleventy site.
+This Github Pages site it just intended for me to test how to use a static site generator with GH Pages.
